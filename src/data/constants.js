@@ -19,7 +19,7 @@ export const Bio = {
     "I am an enthusiastic and adaptable person, constantly looking for new challenges to tackle. Driven by a love for learning, I commit to producing excellent outcomes. With an optimistic outlook and a focus on growth, I am prepared to make a significant impact and achieve remarkable success.",
   github: "https://github.com/mddanish06",
   resume:
-    "https://drive.google.com/file/d/19_G86JyFInsMXPUbBgsE0DlBWhqzLj-B/view?usp=sharing",
+    "https://drive.google.com/file/d/16zMoS_AKRIUy6AZlUcdT4OjIRvFfMdhS/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/mddanish06/",
   twitter: "https://twitter.com/danishhh0611",
   insta: "https://www.instagram.com/this_is_danish._/",

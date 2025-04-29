@@ -65,7 +65,6 @@ const Span = styled.div``;
 const EducationCard = ({ education }) => {
   return (
     <VerticalTimelineElement
-    // date={education.date}
       icon={
         <img
           width="100%"
@@ -82,7 +81,6 @@ const EducationCard = ({ education }) => {
         background: "#1d1836",
         color: "#fff",
         boxShadow: "rgba(23, 92, 230, 0.15) 0px 4px 24px",
-        // backdropFilter: "blur(3px) saturate(106%)",
         backgroundColor: "rgba(17, 25, 40, 0.83)",
         border: "1px solid rgba(255, 255, 255, 0.125)",
         borderRadius: "6px",
